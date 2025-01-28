@@ -31,8 +31,9 @@ Lost your connection? Don’t worry! A retry button appears to reload your data.
 Dynamic Backdrop Colors: Every screen adjusts dynamically with the media's dominant colors.
 Efficient Pagination: Smooth endless scrolling for content discovery.
 Minimalist Navigation: Powered by Navigation Compose, keeping code clean and scalable.
-
+For More Insight :- https://gitdiagram.com/madhusudan785/Movies-Discovery
 Also CheckOut :- (https://drive.google.com/drive/folders/1X1IFzcl93sA5NrMvRAWY6m-rhkYcys6Z?usp=drive_link)
+
 ![Screenshot_2025-01-28-12-08-13-121_com example shows 1](https://github.com/user-attachments/assets/b1bdcfb2-0113-43b6-8313-7e403ebaeb89)
 ![Screenshot_2025-01-28-12-08-07-928_com example shows 1](https://github.com/user-attachments/assets/fbf66ae6-ee44-49eb-b49d-b65c23a78b3c)
 
